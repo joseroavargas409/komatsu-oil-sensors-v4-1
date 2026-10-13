@@ -1,0 +1,15 @@
+{
+  "name": "oa2is-v41-independent",
+  "version": "0.4.1",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node verify.mjs",
+    "build-cases": "node build_cases.mjs"
+  }
+}

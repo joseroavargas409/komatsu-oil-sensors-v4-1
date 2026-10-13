@@ -1,0 +1,19 @@
+   Compiling oa2is_oil_engine v0.4.1 (C:\Users\cotol\Documents\Codex\2026-10-01\https-github-com-translate-goog-nvidia\komatsu_oil_sensors_v4_1_2026-10-12\engine)
+    Finished `release` profile [optimized] target(s) in 19.70s
+     Running unittests src\lib.rs (engine\target\release\deps\oa2is_oil_engine-1b46b48fa3421b60.exe)
+
+running 11 tests
+test tests::ratio_matches_reference_within_point_one_percent ... ok
+test tests::orbital_velocity_is_derivative ... ok
+test tests::tooth_flank_projection_uses_the_short_exit ... ok
+test tests::laminar_pair_viscosity_dissipates_and_conserves_momentum ... ok
+test tests::tangential_sun_wall_velocity ... ok
+test tests::valid_three_planet_assembly ... ok
+test tests::willis_speed_identity ... ok
+test tests::samples_are_on_geometric_boundary ... ok
+test tests::volume_changes_particle_count ... ok
+test tests::co_translating_walls_are_galilean_invariant ... ok
+test tests::rigid_cache_matches_uncached_contacts ... ok
+
+test result: ok. 11 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 1.19s
+
