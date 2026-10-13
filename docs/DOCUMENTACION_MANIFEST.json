@@ -1,0 +1,24 @@
+{
+  "version": "V4.1",
+  "documentation_date": "2026-10-13",
+  "frozen_distribution_commit": "10c063fb400f38aca226cdc31620252d0ad0d8fe",
+  "original_archive_sha256": "b53bc7065a25b1aa3cf62c571f44d8ab6e5cb92fe12069cbed94ac9c10fc874a",
+  "simulation_files_changed": [],
+  "documentation_files": [
+    {
+      "path": "README.md",
+      "bytes": 6983,
+      "sha256": "0231e635f3fce02cf9f74813f1aaebbb1d08be41f3d4b2aa4805e73d6350d5c9"
+    },
+    {
+      "path": "PUBLICACION_GITHUB.md",
+      "bytes": 1683,
+      "sha256": "6c30554cc30705d7512474a9caec5370a7b4e69d96eee898652e68ba5a7d912c"
+    },
+    {
+      "path": "docs/INFORME_DESARROLLO.md",
+      "bytes": 11450,
+      "sha256": "3e115155a09b9ca42e18ef2e07b2bca09138e313d09cf631e5abef8ca35dc62a"
+    }
+  ]
+}

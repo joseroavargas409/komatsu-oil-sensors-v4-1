@@ -1,5 +1,9 @@
 # OA2IS V4.1 independiente — aceite, mecanismo y sondas
 
+## Memoria del desarrollo
+
+[Qué se realizó, cómo se implementó, herramientas y fuentes](docs/INFORME_DESARROLLO.md). Incluye resultados, comprobaciones, supuestos, límites y enlaces al código. Documentación añadida el 13 de octubre de 2026.
+
 Se creó desde una copia verificada de V4. Todos los cambios y ensayos nuevos están en esta carpeta. V4 y las versiones anteriores se conservan.
 
 ## Abrir
